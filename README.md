@@ -1,4 +1,10 @@
 This project will demonstrate one simple data analysis for crowdfunding dataset. This data analysis has following details
+![Data analysis](Data analysis of crowdfunding.ipynb)
+
+This data analysis jupyter notebook has two sections.
+1. Jupyter notebook has all the data analysis and training & testing code for models
+2. There are two files training.py and testing.py does the same thing. [Check the last portion of the Jupyter notebook]
+
 
 1. Reading dataset
 2. Vidualizing the dataset
